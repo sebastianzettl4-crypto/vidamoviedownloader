@@ -1,0 +1,46 @@
+{
+    "users": {
+        "sebastianzettl": {
+            "password": "Se10102006.",
+            "email": "sebastianzettl4@gmail.com",
+            "hobby": "rodina"
+        },
+        "Melania Zettlova": {
+            "password": "Me10102006.",
+            "email": "zettlova3@gmail.com",
+            "hobby": "pes"
+        }
+    },
+    "metadata": {
+        "COSTA BLANCA [hJKJbXyrAMA].mp3": {
+            "display_name": "Costa blaca nerokid",
+            "upload_date": "25.10.2026 23:31",
+            "uploader": "Melania Zettlova",
+            "category": "Hudba"
+        }
+    },
+    "coins": {
+        "sebastianzettl": 0,
+        "Melania Zettlova": 0
+    },
+    "banned": {},
+    "vip": {},
+    "reports": [],
+    "messages": {
+        "Melania Zettlova": "Žiadosť o obnovu prístupu vybavená. Váš 6-miestny kód: 59642"
+    },
+    "agreements": {
+        "sebastianzettl": "Áno, súhlasil",
+        "Melania Zettlova": "Áno, súhlasil"
+    },
+    "recovery": {
+        "Melania Zettlova": {
+            "email": "zettlovamelani@gmail.com",
+            "forgot_type": "email",
+            "hobby": "pes",
+            "details": "Zabudla som gmail",
+            "status": "Kód odoslaný",
+            "code": "59642"
+        }
+    }
+}
